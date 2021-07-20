@@ -12,7 +12,7 @@ task = Task.init(project_name="examples", task_name="pipeline step 3 train model
 
 # Arguments
 args = {
-    'dataset_task_id': 'REPLACE_WITH_DATASET_TASK_ID',
+    'dataset_task_id': '332b89af6a1e4542b71bb414dcc2f176',
 }
 task.connect(args)
 

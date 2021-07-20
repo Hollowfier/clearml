@@ -11,7 +11,7 @@ task = Task.init(project_name="examples", task_name="pipeline step 2 process dat
 # Use either dataset_task_id to point to a tasks artifact or
 # use a direct url with dataset_url
 args = {
-    'dataset_task_id': '',
+    'dataset_task_id': '332b89af6a1e4542b71bb414dcc2f176',
     'dataset_url': '',
     'random_state': 42,
     'test_size': 0.2,
